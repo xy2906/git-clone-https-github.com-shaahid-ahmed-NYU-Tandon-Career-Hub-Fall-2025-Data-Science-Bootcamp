@@ -24,5 +24,7 @@
 
 # https://leetcode.com/problems/list-the-products-ordered-in-a-period/
 # SQL solutin
-
+<img width="1466" height="794" alt="Screenshot 2025-12-04 at 9 11 28 PM" src="https://github.com/user-attachments/assets/c27ed91b-1d95-455f-aaf0-b3ddcd3a13eb" />
 # Pandas solution
+<img width="1468" height="792" alt="Screenshot 2025-12-04 at 9 44 53 PM" src="https://github.com/user-attachments/assets/2177c5f3-f1d4-41c3-9474-4a554fcc5304" />
+
