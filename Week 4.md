@@ -28,3 +28,6 @@
 # Pandas solution
 <img width="1468" height="792" alt="Screenshot 2025-12-04 at 9 44 53 PM" src="https://github.com/user-attachments/assets/2177c5f3-f1d4-41c3-9474-4a554fcc5304" />
 
+# https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/
+# SQL solution
+# Pandas solution
